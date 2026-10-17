@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="test1" group-title="Demo",Apple Bip-Bop (HLS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="test2" group-title="Demo",Mux Test Stream (HLS)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="test3" group-title="Demo",Akamai Live Test (HLS)
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="test4" group-title="Demo",Shaka Angel One (HLS)
+https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8
